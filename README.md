@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on creating apps
 - 📫 How to reach me 
-                  INSTAGRAM - @kelvo_xo
+                  INSTAGRAM - @_theonlymayor
                   TWITTER - @MayokunAreola
 
 <!---
