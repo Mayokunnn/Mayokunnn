@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Mayokunnn
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on creating apps
-- 📫 How to reach me 
-                  INSTAGRAM - @_theonlymayor
+- 👀 I’m a Frontend Developer
+- Ask me about JavaScript
+- 🌱 Ask me about ReactJS
+- 💞️ I’m looking to collaborate on creating web applications
+- '📫 How to reach me 
+                    LinkedIn - https://ng.linkedin.com/in/kelvin-mayokun-areola-631633238
                   TWITTER - @MayokunAreola
 
 <!---
