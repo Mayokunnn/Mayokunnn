@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayokunnn" alt="mayokunnn" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **React JS, Tailwind CSS, JavaScript**
 
