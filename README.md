@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mayokun Areola</h1>
-<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate Fullstack Developer (Frontend Heavy) from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayokunnn&label=Profile%20views&color=0e75b6&style=flat" alt="mayokunnn" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **React JS, Tailwind CSS, JavaScript**
+- 💬 Ask me about **React JS, Tailwind CSS, JavaScript, PHP**
 
 - 📫 How to reach me **kareola960@gmail.com**
 
