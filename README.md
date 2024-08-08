@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin Mayokun Areola</h1>
+<h1 align="center">I'm Kelvin Mayokun Areola</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
 <p align="left">
