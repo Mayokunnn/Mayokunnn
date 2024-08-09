@@ -17,7 +17,8 @@
 - 💬 Ask me about **React JS, Tailwind CSS, JavaScript, PHP, NextJS**
 - 📫 How to reach me **kareola960@gmail.com**
 - ⚡ Fun fact **I love watching Anime**
-
+- **Open to collaboration**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/MayokunAreola" target="blank">
