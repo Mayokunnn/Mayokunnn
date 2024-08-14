@@ -1,6 +1,9 @@
 <h1 align="center">I'm Kelvin Mayokun Areola</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mayokunnn&label=Profile%20views&color=0e75b6&style=flat" alt="mayokunnn" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
