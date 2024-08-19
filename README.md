@@ -14,7 +14,7 @@
 <p>I'm a results-driven Full-stack Engineer with over 2 years of experience in Frontend development and a year in Backend Development. My expertise includes HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js, PHP, Laravel, responsive design, and design systems. I am committed to creating and optimizing user-friendly web solutions and interactions, helping organizations achieve their goals effectively.</p>
 
 - 🌱 I’m currently learning **Blockchain Development**
-- 💬 Ask me about **React JS, Tailwind CSS, JavaScript, PHP, NextJS**
+- 💬 Ask me about **React JS, Tailwind CSS, JavaScript, PHP, Laravel, and NextJS**
 - 📫 How to reach me **kareola960@gmail.com**
 - ⚡ Fun fact **I love watching Anime**
 - **Open to collaboration**
