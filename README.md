@@ -1,4 +1,4 @@
-[![profile Header](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)](https://mayokun-areola.vercel.app/)
+[![profile Header](https://img.freepik.com/free-vector/flat-twitch-banner-template-world-mental-health-day-awareness_23-2150766608.jpg?t=st=1725196639~exp=1725200239~hmac=b145646a6134abb0210e4639abf4a69ba63ce087c433b93b9ad7c85b22103982&w=1380)](https://mayokun-areola.vercel.app/)
 
 ## Wonderful Intro
 
