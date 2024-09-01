@@ -1,4 +1,4 @@
-[![profile Header](https://drive.google.com/file/d/1064xDUsJzI1tPOZUrVH2WtU2XS6DCk4g/view?usp=sharing)](https://mayokun-areola.vercel.app/)
+[![Header](./github-header-image.png)]
 
 ## Introduction
 
