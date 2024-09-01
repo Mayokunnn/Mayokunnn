@@ -28,7 +28,7 @@
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/mayokunareola"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Mayokun's Dev Card"/></a>
+      <a href="https://app.daily.dev/mayokunareola"><img src="https://api.daily.dev/devcards/v2/StTni4nNMCCJJi5BQwHv2.png?r=kvx" width="356" alt="Kelvin Mayokun Areola's Dev Card"/></a>
     </td>
   </tr>
 </table>
