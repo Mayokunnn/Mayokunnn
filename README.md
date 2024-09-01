@@ -5,30 +5,28 @@
 <table>
   <tr>
     <td valign="center">
-      <a href="https://mayokun-areola.vercel.app/">
+      <a href="https://mayokun-areola.vercel.app/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
         <img src="https://komarev.com/ghpvc/?username=Mayokunnn&&style=flat-square" align="center" />
       <p>
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
-        🚀 &nbsp;I love contributing to Opensource Projects
+        🚀 &nbsp;I love contributing to Projects
         <br/>
-        🙂 &nbsp;I'm a content creator on Instagram.
-        <br/>
-        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://mayokun-areola.vercel.app/">my portfolio</a>
+        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://mayokun-areola.vercel.app/contact">my portfolio</a>
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
         <h3>Twitter Community</h3>
         <br/>
-        <a href="https://twitter.com/MayokunAreola">
-          <img src="https://img.shields.io/twitter/follow/dunsincodes?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+        <a href="https://twitter.com/MayokunAreola" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/twitter/follow/MayokunAreola?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/mayokunareola"><img src="https://api.daily.dev/devcards/v2/StTni4nNMCCJJi5BQwHv2.png?r=kvx" width="356" alt="Kelvin Mayokun Areola's Dev Card"/></a>
+      <a href="https://app.daily.dev/mayokunareola" target="_blank" rel="noreferrer"><img src="https://api.daily.dev/devcards/v2/StTni4nNMCCJJi5BQwHv2.png?r=kvx" width="356" alt="Kelvin Mayokun Areola's Dev Card"/></a>
     </td>
   </tr>
 </table>
@@ -40,12 +38,14 @@
 <table>
   <tr>
     <td>
-    <a href="https://www.github.com/Mayokunnn">
-        <img src="https://api.vaunt.dev/v1/github/entities/dun-sin/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    <p>
+    <a href="https://github.com/Mayokunnn/" target="_blank">
+        <img src="https://api.vaunt.dev/v1/github/entities/Mayokunnn/contributions?format=svg&private=true" width="350" title="Includes public and private contributions"/>
     </a>
+</p>
     </td>
     <td>
-      <a href="https://www.github.com/Mayokunnn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayokunnn&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="https://www.github.com/Mayokunnn" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayokunnn&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
 </table>
@@ -179,7 +179,7 @@
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/kelvin-mayokun-areola/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MayokunAreola"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mayokunareola"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://www.linkedin.com/in/kelvin-mayokun-areola/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" rel="noreferrer"/></a>
+<a href = "https://twitter.com/MayokunAreola"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank" rel="noreferrer"/></a>
+<a href = "https://www.instagram.com/mayokunareola"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank" rel="noreferrer"/></a>
 </p>
