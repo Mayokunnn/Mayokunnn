@@ -2,9 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Mayokunnn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)  
 
 ### Hello 👋🏾  
-👀 I love to build projects, make life easier and fun with code.  
-🚀 Passionate about **Web3**, **DeFi**, and **Smart Contracts**.  
-🛠️ I build scalable **Full-Stack Apps** and **Secure Smart Contracts**.  
+👀 I love to build projects, make life easier and fun with code.   
 🧑🏽‍💻 Open to **collaborations**, **freelance gigs**, and **full-time roles**.  
 📫 Reach out to me through [Twitter](https://twitter.com/MayokunAreola) or the contact form in [my portfolio](https://mayokun-areola.vercel.app/contact).  
 
